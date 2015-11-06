@@ -1,0 +1,1 @@
+Minimal Express + MongoDB app skeleton
